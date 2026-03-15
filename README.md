@@ -26,6 +26,13 @@ This project predicts ICU admission risk using machine learning and big data tec
 - Random Forest
 - K-Means Clustering
 
+## Project Structure
+
+data/ → Dataset  
+notebooks/ → Jupyter analysis notebook  
+report/ → Project report  
+requirements.txt → Python dependencies
+
 ## Author
 Prerith Dsouza  
 MSc Advanced Computer Science  
